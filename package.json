@@ -1,0 +1,11 @@
+{
+  "name": "com.bythetale.smallest3",
+  "displayName": "Smallest 3 Compression",
+  "version": "0.1.0",
+  "unity": "2019.3",
+  "keywords": [ "math", "quaternion", "compression", "smallest 3" ],
+  "description": "Smallest3 method as described in Game Programming Gems 3, Quaternion Compression, Zarb-Adami",
+  "dependencies": {
+    "com.unity.mathematics": "1.1.0"
+  }
+}
