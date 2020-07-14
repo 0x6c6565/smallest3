@@ -6,6 +6,7 @@
   "keywords": [ "math", "quaternion", "compression", "smallest 3" ],
   "description": "Smallest3 method as described in Game Programming Gems 3, Quaternion Compression, Zarb-Adami",
   "dependencies": {
+    "com.bythetale.smallest3": "https://github.com/0x6c6565/smallest3",
     "com.unity.mathematics": "1.1.0"
   }
 }
